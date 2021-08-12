@@ -5730,11 +5730,11 @@
         },
         {
             "name": "magento/magento-cloud-patches",
-            "version": "1.0.11",
+            "version": "1.0.12",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.11.0.zip",
-                "shasum": "41415644f10682a08556a3926594c372359c6228"
+                "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.12.0.zip",
+                "shasum": "71a034317f296e84d891deae6f88c6fdc89fc934"
             },
             "require": {
                 "composer/composer": "@stable",

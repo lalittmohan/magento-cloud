@@ -1698,16 +1698,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.8.3",
+            "version": "1.8.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "1afdd860a2566ed3c2b0b4a3de6e23434a79ec85"
+                "reference": "337e3ad8e5716c15f9657bd214d16cc5e69df268"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/1afdd860a2566ed3c2b0b4a3de6e23434a79ec85",
-                "reference": "1afdd860a2566ed3c2b0b4a3de6e23434a79ec85",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/337e3ad8e5716c15f9657bd214d16cc5e69df268",
+                "reference": "337e3ad8e5716c15f9657bd214d16cc5e69df268",
                 "shasum": ""
             },
             "require": {
@@ -1800,7 +1800,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-05T13:56:00+00:00"
+            "time": "2022-03-20T21:51:18+00:00"
         },
         {
             "name": "guzzlehttp/ringphp",
@@ -2448,11 +2448,11 @@
         },
         {
             "name": "magento/ece-tools",
-            "version": "2002.1.9",
+            "version": "2002.1.10",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.9.0.zip",
-                "shasum": "87047ff05c46680f1441214685ca2ba3317fb28a"
+                "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.10.0.zip",
+                "shasum": "4ef2fea37851746b11dc012801db8056043b4134"
             },
             "require": {
                 "colinmollenhour/credis": "^1.6.0",
@@ -2981,11 +2981,11 @@
         },
         {
             "name": "magento/magento-cloud-docker",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/magento-cloud-docker/magento-magento-cloud-docker-1.3.1.0.zip",
-                "shasum": "ff1b02957b8384c0947694748fc276d643ebb8fe"
+                "url": "https://repo.magento.com/archives/magento/magento-cloud-docker/magento-magento-cloud-docker-1.3.2.0.zip",
+                "shasum": "88f42039c7defabee4adbcf05d3da800c37e91fc"
             },
             "require": {
                 "composer/composer": "^1.4 || ^2.0",
@@ -3099,11 +3099,11 @@
         },
         {
             "name": "magento/magento-cloud-patches",
-            "version": "1.0.15",
+            "version": "1.0.16",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.15.0.zip",
-                "shasum": "a9fc90c38ed67ebe5ec29a59f93f017e713c451c"
+                "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.16.0.zip",
+                "shasum": "893f79cdf9127a47b2e6b44e27ddfd179148d95d"
             },
             "require": {
                 "composer/composer": "@stable",
@@ -14460,16 +14460,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "1.26.1",
+            "version": "1.27.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "c6b00f05152ae2c9b04a448f99c7590beb6042f5"
+                "reference": "52ebd235c1f7e0d5e1b16464b695a28335f8e44a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/c6b00f05152ae2c9b04a448f99c7590beb6042f5",
-                "reference": "c6b00f05152ae2c9b04a448f99c7590beb6042f5",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/52ebd235c1f7e0d5e1b16464b695a28335f8e44a",
+                "reference": "52ebd235c1f7e0d5e1b16464b695a28335f8e44a",
                 "shasum": ""
             },
             "require": {
@@ -14538,7 +14538,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-05-28T08:32:12+00:00"
+            "time": "2022-03-13T20:29:46+00:00"
         },
         {
             "name": "msp/recaptcha",
@@ -15000,16 +15000,16 @@
         },
         {
             "name": "paragonie/sodium_compat",
-            "version": "v1.17.0",
+            "version": "v1.17.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/sodium_compat.git",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321"
+                "reference": "ac994053faac18d386328c91c7900f930acadf1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/c59cac21abbcc0df06a3dd18076450ea4797b321",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321",
+                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/ac994053faac18d386328c91c7900f930acadf1e",
+                "reference": "ac994053faac18d386328c91c7900f930acadf1e",
                 "shasum": ""
             },
             "require": {
@@ -15078,7 +15078,7 @@
                 "secret-key cryptography",
                 "side-channel resistant"
             ],
-            "time": "2021-08-10T02:43:50+00:00"
+            "time": "2022-03-23T19:32:04+00:00"
         },
         {
             "name": "pelago/emogrifier",
@@ -15774,23 +15774,24 @@
         },
         {
             "name": "seld/jsonlint",
-            "version": "1.8.3",
+            "version": "1.8.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/jsonlint.git",
-                "reference": "9ad6ce79c342fbd44df10ea95511a1b24dee5b57"
+                "reference": "d9a308b84277a7dd651ba89bf5ed37b88497b171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/9ad6ce79c342fbd44df10ea95511a1b24dee5b57",
-                "reference": "9ad6ce79c342fbd44df10ea95511a1b24dee5b57",
+                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/d9a308b84277a7dd651ba89bf5ed37b88497b171",
+                "reference": "d9a308b84277a7dd651ba89bf5ed37b88497b171",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.3 || ^7.0 || ^8.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
+                "phpstan/phpstan": "^0.12.59",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0 || ^8.5.13"
             },
             "bin": [
                 "bin/jsonlint"
@@ -15829,7 +15830,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-11-11T09:19:24+00:00"
+            "time": "2022-03-31T11:30:35+00:00"
         },
         {
             "name": "seld/phar-utils",
